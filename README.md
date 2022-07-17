@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Diego Iván 😎</h1>
-<img align="right" alt"Coding" width="150" src="https://www.cardmaker.net/uploads/profile/photo-721863.gif">
+<img align="right" alt"Coding" width="125" src="https://www.cardmaker.net/uploads/profile/photo-721863.gif">
 <h3 align="center">I am a software engineering student and passionate about video games, who wants to learn and get experiences to be a good developer in the future, I still don't know what to specialize in my career but I do my best to get ahead.</h3>
 
 # 💻 Tech Stack:
